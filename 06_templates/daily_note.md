@@ -1,0 +1,34 @@
+# {{DATE}} | {{WEEKDAY}}
+
+## Today's Focus
+
+- 
+
+## Cases / Scenarios
+
+### Case 1
+
+- Chief concern:
+- Key history:
+- Key findings:
+- Working impression:
+- Questions raised:
+
+## New Knowledge
+
+- 
+
+## Drug / Decision Notes
+
+- 
+
+## Review Queue
+
+- D+1:
+- D+7:
+- D+30:
+
+## To Be Promoted
+
+- 需要整理成专题笔记：
+- 需要补进数据表：
