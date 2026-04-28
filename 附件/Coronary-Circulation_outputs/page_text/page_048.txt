@@ -1,0 +1,36 @@
+LAD
+RCA
+LCx
+Short axis
+Vertical
+Long axis
+Basal
+Mid
+Apical
+Mid
+1
+2
+3
+4
+5
+6
+7
+8
+9
+10
+11
+12
+15
+14
+13
+17
+16
+Horizontal
+Long axis
+Mid
+17
+Coronary artery territories
+Cerqueira MD, Weissman NJ, Dilsizian V, Jacobs AK, Kaul S, Laskey WK, Pennell DJ, Rumberger JA, Ryan T, Verani MS; American Heart
+Association Writing Group on Myocardial Segmentation and Registration for Cardiac Imaging. Standardized myocardial segmentation and
+nomenclature for tomographic imaging of the heart. A statement for healthcare professionals from the Cardiac Imaging Committee of the Council
+on Clinical Cardiology of the American Heart Association. Circulation. 2002 Jan 29;105(4):539-42.

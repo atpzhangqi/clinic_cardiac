@@ -1,0 +1,12 @@
+# Coronary-Circulation processing manifest
+- Source: 附件/Coronary-Circulation.pdf
+- Pages: 60
+- Split PDFs:
+  - Part 1: pages 1-10: Coronary-Circulation_part01_p01-10.pdf
+  - Part 2: pages 11-20: Coronary-Circulation_part02_p11-20.pdf
+  - Part 3: pages 21-30: Coronary-Circulation_part03_p21-30.pdf
+  - Part 4: pages 31-40: Coronary-Circulation_part04_p31-40.pdf
+  - Part 5: pages 41-50: Coronary-Circulation_part05_p41-50.pdf
+  - Part 6: pages 51-60: Coronary-Circulation_part06_p51-60.pdf
+- Page images: images/page_001.png ...
+- Extracted text: page_text/page_001.txt ...
