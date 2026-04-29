@@ -1,0 +1,78 @@
+{
+  "parts": [
+    {
+      "part_index": 1,
+      "pdf": "附件/Coronary-Circulation_outputs/parts/Coronary-Circulation_part01_p01-10.pdf",
+      "notebook_id": "9ae49b27-91ae-4a53-b903-813c3219ff91",
+      "notebook_title": "Coronary Circulation 学习PPT 01 p.01-10",
+      "source_id": "51736b46-747a-4b8c-a999-e6c0867a357a",
+      "source_title": "Coronary-Circulation_part01_p01-10.pdf",
+      "source_ready": true,
+      "artifact_id": "a2bd8104-3e46-4d2f-b77a-91cd7e8ec957",
+      "generate_response": {
+        "task_id": "a2bd8104-3e46-4d2f-b77a-91cd7e8ec957",
+        "status": "pending"
+      },
+      "generation_started_at": "2026-04-26 17:53:04",
+      "artifact_status": "completed",
+      "artifact_title": "Coronary Anatomy and Pathology",
+      "pptx_path": "附件/Coronary-Circulation_outputs/pptx/Coronary-Circulation_学习PPT_part01_p01-10.pptx"
+    },
+    {
+      "part_index": 2,
+      "pdf": "附件/Coronary-Circulation_outputs/parts/Coronary-Circulation_part02_p11-20.pdf",
+      "notebook_id": "fdcb525c-7cef-40ab-8677-9aa122175bfc",
+      "notebook_title": "Coronary Circulation 学习PPT 02 p.11-20",
+      "source_id": "fd58bc40-a60f-4e91-9c30-6ab9b0a5b9b7",
+      "source_title": "Coronary-Circulation_part02_p11-20.pdf",
+      "source_ready": true,
+      "artifact_id": "7ffd1c7d-e018-4a2a-a782-e9eefb0ff27c",
+      "generate_response": {
+        "task_id": "7ffd1c7d-e018-4a2a-a782-e9eefb0ff27c",
+        "status": "pending"
+      },
+      "generation_started_at": "2026-04-26 17:53:16",
+      "artifact_status": "completed",
+      "artifact_title": "Coronary Angiography Blueprint",
+      "pptx_path": "附件/Coronary-Circulation_outputs/pptx/Coronary-Circulation_学习PPT_part02_p11-20.pptx"
+    },
+    {
+      "part_index": 3,
+      "pdf": "附件/Coronary-Circulation_outputs/parts/Coronary-Circulation_part03_p21-30.pdf",
+      "notebook_id": "3ca22bf4-a746-4409-9bd4-4fb8c54668ec",
+      "notebook_title": "Coronary Circulation 学习PPT 03 p.21-30",
+      "source_id": "7e8636cb-5ccc-4ee2-b645-5aec37a4f041",
+      "source_title": "Coronary-Circulation_part03_p21-30.pdf",
+      "source_ready": true,
+      "last_generate_error": "{ |   \"error\": true, |   \"code\": \"RATE_LIMITED\", |   \"message\": \"Slide Deck generation rate limited by Google\" | } |  | 18:36:14 ERROR [notebooklm._core] RPC CREATE_ARTIFACT failed after 0.884s",
+      "last_generate_attempt": "2026-04-26 18:36:14"
+    },
+    {
+      "part_index": 4,
+      "pdf": "附件/Coronary-Circulation_outputs/parts/Coronary-Circulation_part04_p31-40.pdf",
+      "notebook_id": "0109566a-95b8-4f39-830a-bc24ddc47d80",
+      "notebook_title": "Coronary Circulation 学习PPT 04 p.31-40",
+      "source_id": "40fc3c34-9a43-4769-9fbb-8b8f19cd2cdc",
+      "source_title": "Coronary-Circulation_part04_p31-40.pdf",
+      "source_ready": true
+    },
+    {
+      "part_index": 5,
+      "pdf": "附件/Coronary-Circulation_outputs/parts/Coronary-Circulation_part05_p41-50.pdf",
+      "notebook_id": "cd14c656-5deb-4b82-a518-b043cec1276f",
+      "notebook_title": "Coronary Circulation 学习PPT 05 p.41-50",
+      "source_id": "2e78c586-abb4-4cef-b18f-f74510c7f829",
+      "source_title": "Coronary-Circulation_part05_p41-50.pdf",
+      "source_ready": true
+    },
+    {
+      "part_index": 6,
+      "pdf": "附件/Coronary-Circulation_outputs/parts/Coronary-Circulation_part06_p51-60.pdf",
+      "notebook_id": "22593c33-43ec-402c-b14c-4fb7607c6f1e",
+      "notebook_title": "Coronary Circulation 学习PPT 06 p.51-60",
+      "source_id": "147ee1a4-62e6-4099-a6f2-e81a45e1bc20",
+      "source_title": "Coronary-Circulation_part06_p51-60.pdf",
+      "source_ready": true
+    }
+  ]
+}

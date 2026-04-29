@@ -1,0 +1,13 @@
+Impact of Right Coronary Dominance on Triple-Vessel Coronary Artery Disease
+Recently, Peng L et al (Liyuan Peng 1, Xincheng Guo 2, Ya Gao 3, Qi Guo 4, Jingjing Zhang 3, Bangjiang Fang 5, Bin Yan 1. Impact of
+Right Coronary Dominance on Triple-Vessel Coronary Artery Disease: A Cross-Sectional Study. Medicine (Baltimore) , 97 (32), e11685
+Aug 2018 PMID: 30095625 PMCID: PMC6133631 DOI: 10.1097/MD.0000000000011685) investigate the relationship between right coronary
+dominance and coronary angiographic characteristics in patients with or without significant coronary artery disease (CAD).
+A total of 2225 patients undergoing coronary angiography between January 2011 and November 2014 were recruited in the study. Based on the
+coronary angiography results, patients were divided into the left dominance (LD) group, right dominance (RD) group, and co-dominance (CD)
+group. Multinomial logistic regression was applied to analyze the relationships between coronary dominance and triple-vessel CAD.
+They found that patients with RD had a higher prevalence of triple-vessel CAD (36.6% vs 27.3%, P = .008) and significant stenosis in the RCA
+(40.5% vs 29.2%, P = .001). In addition, results of multinomial logistic regression analysis showed that RD was significantly associated with the
+triple-vessel disease (odds ratio 1.768, 95% confidence interval 1.057–2.956, P = .030).
+In conclusion, RD positively correlated with triple-vessel CAD rather than LD or CD in patients. This result suggested that RD may serve as a risk
+factor for triple-vessel CAD and more effective measures should be taken in RD patients to prevent fatal cardiovascular events.

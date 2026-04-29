@@ -1,0 +1,23 @@
+1.
+LMCA
+2.
+Proximal part of LAD
+3.
+Mid part of LAD
+4.
+Distal parte of LAD
+5.
+Proximal LCX
+6.
+Distal LCX
+7.
+Obtuse Marginal Artery
+8.
+First diagonal artery
+9.
+Second diagonal artery
+10. First septal perforator 
+artery
+11. Septal arteries 
+12. Atrial branch of the LCX
+Right Anterior Oblique projection 30° (RAO 30°)

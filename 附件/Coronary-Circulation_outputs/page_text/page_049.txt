@@ -1,0 +1,58 @@
+15
+10
+4
+LV
+LA
+Ao
+Longitudinal paraesternal
+Bulls eye (apical short axis)
+LV
+LV
+LA
+LA
+15
+10
+4
+17
+13
+7
+1
+RV
+RA
+Apical four 
+chambers
+Apical two 
+chambers
+Left Anterior Descending (LAD)
+Left Circunflex (LCx)
+Posterior Descending (RCA or LCx)
+Inferior Wall
+Septal
+Wall
+Lateral 
+Wall
+Anterior Wall
+1
+7
+13
+17
+15
+10
+4
+2
+8
+9
+3
+14
+12
+6
+11
+5
+16
+17
+17
+17
+9
+3
+Left Ventricle myocardial segmentation, standard standard 17-segment model, and vascular territories 
+The apex is analyzed separately, usually from a vertical long-axis slice.

@@ -1,0 +1,35 @@
+1
+1.
+Left Main Coronary Artery (LMCA)
+2.
+Left Anterior Descending Artery (LAD)
+3.
+Left Circumflex Coronary Artery (LCX)
+4.
+Right Coronary Artery (RCA)
+5.
+Posterior Descending Artery (PDA). In this case is supplied by the RCA, then the coronary circulation can be classified as "right-dominance“ 
+6.
+First Diagonal (Dg)
+7.
+Acute Marginal (A. Mg)
+2
+3
+4
+5
+S1
+S2
+S3
+S1: First Septal Perforator branch
+S2: Second Septal Perforator
+S3: Third Septal Perforator
+S’: Posterior Septal Perforators
+6
+7
+Coronary circulation
+Anterior Septal Perforator Branches 
+S’
+S’
+S’
+S’
+S’
